@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <h3 align="center">Aspiring Cybersecurity Student</h3>
 
-- 👨‍💻 All of my projects are available at [github](github)
-
 - 💬 Ask me about **Offensive Security,Blockchain and Digital Forensics**
-
+- 👨‍💻 All of my projects are available here at github.
 - 📫 How to reach me **K214755@nu.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
