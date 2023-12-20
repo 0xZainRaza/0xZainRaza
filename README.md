@@ -7,7 +7,6 @@
   
 - 📫 How to reach me **K214755@nu.edu.pk**
 
-<script src="https://tryhackme.com/badge/880485"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/zain.aliraza.png" alt="TryHackMe">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
