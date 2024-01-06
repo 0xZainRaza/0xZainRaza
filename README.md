@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <h3 align="center">Aspiring Cybersecurity Student</h3>
 
-- 💬 Ask me about **Offensive Security,Blockchain and Digital Forensics**
+- 🌱 I’m currently learning **Offensive Security,Blockchain and Digital Forensics**
 
 - 👨‍💻 All of my projects are available here at github
   
