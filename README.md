@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available here at github
   
-- 📫 How to reach me **K214755@nu.edu.pk**
+- 📫 How to reach me **zainaliraza2003@gmail.com**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/zain.aliraza.png" alt="TryHackMe">
 
