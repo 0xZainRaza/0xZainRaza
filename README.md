@@ -7,6 +7,8 @@
   
 - 📫 How to reach me **zainaliraza2003@gmail.com**
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" alt="binary-assassin" /> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/zain.aliraza.png" alt="TryHackMe">
 
 
