@@ -22,3 +22,5 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0">
+<img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0">
+<img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0">
