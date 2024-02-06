@@ -8,11 +8,9 @@
 - 📫 How to reach me **zainaliraza2003@gmail.com**
 
 
-<!-- 
-  <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" alt="0xZainRaza" /> 
-  </p>
-  -->
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat) -->
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/zain.aliraza.png" alt="TryHackMe">
 
