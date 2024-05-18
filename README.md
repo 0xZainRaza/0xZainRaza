@@ -74,4 +74,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/zain-ali-raza-7372b1219/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zainaliraza" height="30" width="40" /></a>
 <a href="https://instagram.com/_.zainaliraza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.zainaliraza" height="30" width="40" /></a>
-<a href="https://medium.com/@0xZainRaza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="_.zainaliraza" height="30" width="40" /></a>
