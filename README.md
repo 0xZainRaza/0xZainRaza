@@ -59,6 +59,9 @@
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
         <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" alt="Teraform" width="40" height="40"/>
     </a>
+    <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" alt="Wazuh" width="40" height="40"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
