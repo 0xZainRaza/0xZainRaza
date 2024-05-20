@@ -9,6 +9,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/zain.aliraza.png" alt="TryHackMe">
 
+<img src="https://www.hackthebox.com/badge/image/1461432" alt="HackTheBox">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
