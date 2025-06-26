@@ -104,7 +104,7 @@
     <img src="https://forwardsecurity.com/wp-content/uploads/2023/03/semgrep-1.png" alt="semgrep" width="42" height="42"/>
   </a>
   <a href="https://snyk.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="42" height="42"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="43" height="43"/>
   </a>
   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/0xZainRaza/0xZainRaza/refs/heads/main/logos/png-clipart-owasp-zap-vulnerability-penetration-test-proxy-server-web-application-miscellaneous-angle-removebg-preview.png" alt="owasp zap" width="41" height="41"/>
@@ -128,7 +128,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="41" height="41"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="41" height="41"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="39" height="39"/>
   </a>
 </p>
 
