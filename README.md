@@ -7,9 +7,7 @@
   
 - 📫 How to reach me **zainaliraza2003@gmail.com**  <img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/zain.aliraza.png" alt="TryHackMe">
-
-<img src="https://www.hackthebox.com/badge/image/1461432" alt="HackTheBox">
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xZainRaza.png" alt="Your Image Badge" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
