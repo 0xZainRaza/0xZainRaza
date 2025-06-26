@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 
-<p align="right">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xZainRaza.png" alt="TryHackMe Badge" />
-</p>
 
 - 🌱 I’m currently learning **Rust and Cloud Security**
 
