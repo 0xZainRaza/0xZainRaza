@@ -92,7 +92,7 @@
         <img src="https://mma.prnewswire.com/media/2655721/prowlerpro_logo.jpg" alt="metasploit" width="40" height="40"/>
     </a>
     <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="snyk" width="40" height="40"/>
+        <img src="https://forwardsecurity.com/wp-content/uploads/2023/03/semgrep-1.png" alt="snyk" width="40" height="40"/>
     </a>
     <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="40" height="40"/>
