@@ -105,10 +105,10 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="41" height="41"/>
   </a>
   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.zaproxy.org/docs/api/images/logo.png" alt="owasp zap" width="41" height="41"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0jtqWSIzg2kyDAMANekjGUqy75lsZeoSMKBQeroN-tZiZT2iAoC9eISVPSgj4-ojx3o&usqp=CAU" alt="owasp zap" width="41" height="41"/>
   </a>
   <a href="https://www.openvas.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:954/1*ssgbiwYHOi9gIXt9pGCJYw.png" alt="openvas" width="41" height="41"/>
+    <img src="https://avatars.githubusercontent.com/u/31986857?v=4" alt="openvas" width="41" height="41"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://cyberphinix.de/enydrirs/2024/06/metasploit-framework-logo.svg" alt="metasploit" width="41" height="41"/>
