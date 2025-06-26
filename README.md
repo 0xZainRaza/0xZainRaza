@@ -86,10 +86,10 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="41" height="41"/> 
   </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" alt="terraform" width="41" height="41"/>
+    <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" alt="terraform" width="43" height="43"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" alt="grafana" width="41" height="41"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" alt="grafana" width="43" height="43"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="39" height="39"/>
