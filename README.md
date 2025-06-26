@@ -137,11 +137,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/zain-ali-raza-7372b1219/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/zain-ali-raza-7372b1219/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/_.zainaliraza" target="_blank" title="Instagram">
+  <a href="https://instagram.com/_.zainaliraza" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
