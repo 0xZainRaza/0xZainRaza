@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 
+<p align="right">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xZainRaza.png" alt="TryHackMe Badge" />
+</p>
+
 - 🌱 I’m currently learning **Rust and Cloud Security**
 
 - 👨‍💻 All of my projects are available here at github
   
 - 📫 How to reach me **zainaliraza2003@gmail.com**  <img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xZainRaza.png" alt="Your Image Badge" />
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xZainRaza.png" alt="TryHackMe Badge" />
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
