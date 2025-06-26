@@ -83,7 +83,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="41" height="41"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://i0.wp.com/goodtech.info/wp-content/uploads/2017/03/kubernetes-555.png?ssl=1" alt="kubernetes" width="45" height="43"/> 
+    <img src="https://i0.wp.com/goodtech.info/wp-content/uploads/2017/03/kubernetes-555.png?ssl=1" alt="kubernetes" width="42.5" height="43"/> 
   </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" alt="terraform" width="43" height="43"/>
