@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">Aspiring Cybersecurity Student</h3>
+<h3 align="center">Just Another Cybersecurity Nerd</h3>
 
 - 🌱 I’m currently learning **Rust and Cloud Security**
 
@@ -61,11 +61,17 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1024px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
+    </a>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
     </a>
     <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
+    </a>
+    <a href="https://azure.microsoft.com/en-us/products/devops/pipelines" target="_blank" rel="noreferrer"> 
+        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/azure-pipelines.png" alt="circleci" width="40" height="40"/> 
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
