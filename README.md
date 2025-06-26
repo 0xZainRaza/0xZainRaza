@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">Just Another Cybersecurity Nerd</h3>
+<h3 align="center">A Cybersecurity Nerd</h3>
 
 - 🌱 I’m currently learning **Rust and Cloud Security**
 
