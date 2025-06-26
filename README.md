@@ -98,6 +98,9 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="40" height="40"/>
     </a>
     <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+        <img src="https://c0.klipartz.com/pngpicture/170/187/sticker-png-owasp-zap-vulnerability-penetration-test-proxy-server-web-application-miscellaneous-angle-web-application-kali-linux-zap-thumbnail.png" alt="metasploit" width="40" height="40"/>
+    </a>
+    <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
         <img src="https://cyberphinix.de/enydrirs/2024/06/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/>
     </a>
     <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
