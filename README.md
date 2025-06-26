@@ -89,7 +89,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" alt="Teraform" width="40" height="40"/>
     </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-        <img src="https://mike-costello.github.io/assets/img/prometheus/logo_prometheus.png" alt="Teraform" width="40" height="40"/>
+        <img src="https://www.clipartmax.com/png/middle/450-4502990_prometheus-logo-logo-prometheus-monitoring.png" alt="Teraform" width="40" height="40"/>
     </a>
     <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
         <img src="https://trivy.dev/v0.56/imgs/logo.png" alt="metasploit" width="40" height="40"/>
