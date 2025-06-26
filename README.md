@@ -95,16 +95,16 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="39" height="39"/>
   </a>
   <a href="https://trivy.dev/" target="_blank" rel="noreferrer">
-    <img src="https://trivy.dev/v0.56/imgs/logo.png" alt="trivy" width="41" height="41"/>
+    <img src="https://trivy.dev/v0.56/imgs/logo.png" alt="trivy" width="42" height="42"/>
   </a>
   <a href="https://prowler.pro/" target="_blank" rel="noreferrer">
-    <img src="https://mma.prnewswire.com/media/2655721/prowlerpro_logo.jpg" alt="prowler" width="41" height="41"/>
+    <img src="https://mma.prnewswire.com/media/2655721/prowlerpro_logo.jpg" alt="prowler" width="42" height="42"/>
   </a>
   <a href="https://semgrep.dev/" target="_blank" rel="noreferrer">
-    <img src="https://forwardsecurity.com/wp-content/uploads/2023/03/semgrep-1.png" alt="semgrep" width="41" height="41"/>
+    <img src="https://forwardsecurity.com/wp-content/uploads/2023/03/semgrep-1.png" alt="semgrep" width="42" height="42"/>
   </a>
   <a href="https://snyk.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="41" height="41"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="42" height="42"/>
   </a>
   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/0xZainRaza/0xZainRaza/refs/heads/main/logos/png-clipart-owasp-zap-vulnerability-penetration-test-proxy-server-web-application-miscellaneous-angle-removebg-preview.png" alt="owasp zap" width="41" height="41"/>
