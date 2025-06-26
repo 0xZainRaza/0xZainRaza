@@ -116,7 +116,7 @@
     <img src="https://cyberphinix.de/enydrirs/2024/06/metasploit-framework-logo.svg" alt="metasploit" width="41" height="41"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" alt="burpsuite" width="37" height="37"/>
+    <img src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" alt="burpsuite" width="37" height="40"/>
   </a>
   <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" alt="wazuh" width="41" height="41"/>
