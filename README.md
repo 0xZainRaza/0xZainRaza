@@ -105,7 +105,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7_aJfIZ_3m53kEvJsPsPPWITp42NSZJX3Q&s" alt="snyk" width="41" height="41"/>
   </a>
   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0jtqWSIzg2kyDAMANekjGUqy75lsZeoSMKBQeroN-tZiZT2iAoC9eISVPSgj4-ojx3o&usqp=CAU" alt="owasp zap" width="41" height="41"/>
+    <img src="https://raw.githubusercontent.com/0xZainRaza/0xZainRaza/refs/heads/main/logos/png-clipart-owasp-zap-vulnerability-penetration-test-proxy-server-web-application-miscellaneous-angle-removebg-preview.png" alt="owasp zap" width="41" height="41"/>
   </a>
   <a href="https://www.openvas.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/31986857?v=4" alt="openvas" width="41" height="41"/>
