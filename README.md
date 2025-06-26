@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 
 
-- 🌱 I’m currently learning **Rust and Cloud Security**
+- 🌱 - 🌱 I’m currently exploring:
+  - **DevSecOps** & **Platform Engineering**
+  - **AI Security**
+  - **Microservices Security**
+
 
 - 👨‍💻 All of my projects are available here at github
   
