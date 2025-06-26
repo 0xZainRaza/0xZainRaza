@@ -95,7 +95,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" alt="grafana" width="41" height="41"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.clipartmax.com/png/middle/450-4502990_prometheus-logo-logo-prometheus-monitoring.png" alt="prometheus" width="41" height="41"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="41" height="41"/>
   </a>
   <a href="https://trivy.dev/" target="_blank" rel="noreferrer">
     <img src="https://trivy.dev/v0.56/imgs/logo.png" alt="trivy" width="41" height="41"/>
