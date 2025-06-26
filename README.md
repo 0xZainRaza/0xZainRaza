@@ -107,6 +107,9 @@
   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.zaproxy.org/docs/api/images/logo.png" alt="owasp zap" width="41" height="41"/>
   </a>
+  <a href="https://www.openvas.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:954/1*ssgbiwYHOi9gIXt9pGCJYw.png" alt="openvas" width="41" height="41"/>
+  </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://cyberphinix.de/enydrirs/2024/06/metasploit-framework-logo.svg" alt="metasploit" width="41" height="41"/>
   </a>
