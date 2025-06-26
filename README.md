@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 
 
-- 🌱 - 🌱 I’m currently exploring:
-  - **DevSecOps** & **Platform Engineering**
-  - **AI Security**
-  - **Microservices Security**
-
-
+- 🌱 I’m currently learning **DevSecOps** and **Platform Engineering**
+  
 - 👨‍💻 All of my projects are available here at github
   
 - 📫 How to reach me **zainaliraza2003@gmail.com**  <img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0">
