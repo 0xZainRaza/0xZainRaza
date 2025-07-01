@@ -80,7 +80,7 @@
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/azure-pipelines.png" alt="azure pipelines" width="41" height="41"/> 
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="41" height="41"/> 
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="41" height="41"/>
