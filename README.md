@@ -76,6 +76,9 @@
   <a href="https://azure.microsoft.com/en-us/products/devops/pipelines" target="_blank" rel="noreferrer"> 
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/azure-pipelines.png" alt="azure pipelines" width="41" height="41"/> 
   </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="41" height="41"/> 
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="41" height="41"/>
   </a>
@@ -120,6 +123,9 @@
   </a>
   <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" alt="wazuh" width="41" height="41"/>
+  </a>
+  <a href="https://falco.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.shopify.com/s/files/1/1300/8977/products/falco-stacked-colorDecal7.jpg?v=1679688076" alt="falco" width="41" height="41"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="41" height="41"/>
