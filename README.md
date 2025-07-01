@@ -103,9 +103,6 @@
   <a href="https://prowler.pro/" target="_blank" rel="noreferrer">
     <img src="https://mma.prnewswire.com/media/2655721/prowlerpro_logo.jpg" alt="prowler" width="42" height="42"/>
   </a>
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="sonarqube" width="46" height="46"/>
-  </a>
   <a href="https://semgrep.dev/" target="_blank" rel="noreferrer">
     <img src="https://forwardsecurity.com/wp-content/uploads/2023/03/semgrep-1.png" alt="semgrep" width="42" height="42"/>
   </a>
