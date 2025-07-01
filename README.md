@@ -125,7 +125,7 @@
     <img src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" alt="burpsuite" width="37" height="40"/>
   </a>
   <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" alt="wazuh" width="41" height="41"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" alt="wazuh" width="40" height="40"/>
   </a>
   <a href="https://falco.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/0xZainRaza/0xZainRaza/refs/heads/main/logos/Screenshot%202025-07-01%20051858.png" alt="falco" width="41" height="41"/>
