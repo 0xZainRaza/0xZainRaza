@@ -74,7 +74,7 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="41" height="41"/> 
   </a>
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="39" height="39"/> 
+    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="38" height="38"/> 
   </a>
   <a href="https://azure.microsoft.com/en-us/products/devops/pipelines" target="_blank" rel="noreferrer"> 
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/azure-pipelines.png" alt="azure pipelines" width="41" height="41"/> 
