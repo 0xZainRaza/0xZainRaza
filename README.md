@@ -125,7 +125,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" alt="wazuh" width="41" height="41"/>
   </a>
   <a href="https://falco.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.shopify.com/s/files/1/1300/8977/products/falco-stacked-colorDecal7.jpg?v=1679688076" alt="falco" width="41" height="41"/>
+    <img src="https://raw.githubusercontent.com/0xZainRaza/0xZainRaza/refs/heads/main/logos/Screenshot%202025-07-01%20051858.png" alt="falco" width="41" height="41"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="41" height="41"/>
