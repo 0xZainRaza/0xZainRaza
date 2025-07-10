@@ -10,10 +10,9 @@
 - 📫 How to reach me **zainaliraza2003@gmail.com**  <img src="https://komarev.com/ghpvc/?username=0xzainraza&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0">
 
 <p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xZainRaza.png" alt="TryHackMe Badge" width="275" height="114"/>
-  <img width="275" height="114" alt="Screenshot 2025-07-10 065141" src="https://github.com/user-attachments/assets/9f0b6c89-19ac-4044-9826-dd55a7d5a694" />
+  <img src="https://github.com/user-attachments/assets/5eb7dabf-4b5f-415a-b6ab-7e3edf8e3aa3" alt="TryHackMe Badge" width="275" height="114"/>
+  <img width="300" height="130" alt="Screenshot 2025-07-10 065141" src="https://github.com/user-attachments/assets/b9ea46ff-72d4-43cd-a21b-b311cf4a4b63" />
 </p>
-
 
 
 
