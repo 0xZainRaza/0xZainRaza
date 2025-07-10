@@ -11,7 +11,7 @@
 
 <p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/0xZainRaza.png" alt="TryHackMe Badge" width="250" height="60"/>
-  <img src="https://github.com/user-attachments/assets/b150f833-a4ab-4250-8fed-41a5ca9f2949" alt="HackTheBox" width="250" height="60"/>
+  <img src="https://github.com/user-attachments/assets/b150f833-a4ab-4250-8fed-41a5ca9f2949" alt="HackTheBox" width="250" height="65"/>
 </p>
 
 
