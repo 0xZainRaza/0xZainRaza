@@ -34,12 +34,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="41" height="41"/>
   </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="41" height="41"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="41" height="41"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="41" height="41"/>
   </a>
@@ -51,9 +45,6 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="41" height="41"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="41" height="41"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" alt="flask" width="41" height="41"/>
