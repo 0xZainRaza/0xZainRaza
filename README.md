@@ -101,7 +101,7 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="39" height="39"/>
   </a>
   <a href="https://trivy.dev/" target="_blank" rel="noreferrer">
-    <img src="https://trivy.dev/v0.56/imgs/logo.png" alt="trivy" width="42" height="42"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFhHw--cXn2WqDmPNgANeMQM5ypnUendSWA&s" alt="trivy" width="42" height="42"/>
   </a>
   <a href="https://prowler.pro/" target="_blank" rel="noreferrer">
     <img src="https://mma.prnewswire.com/media/2655721/prowlerpro_logo.jpg" alt="prowler" width="42" height="42"/>
