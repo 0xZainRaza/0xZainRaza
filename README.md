@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="56"><a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36"/><br/>C</a></td>
     <td align="center" width="56"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36"/><br/>C++</a></td>
