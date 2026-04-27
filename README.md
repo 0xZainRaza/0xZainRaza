@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="60"><a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40"/><br/>C</a></td>
     <td align="center" width="60"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</a></td>
-    <td align="center" width="60"><a href="https://www.rust-lang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" width="40"/><br/>Rust</a></td>
+    <td align="center" width="60"><a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/><br/>Rust</a></td>
     <td align="center" width="60"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</a></td>
     <td align="center" width="60"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br/>Bash</a></td>
     <td align="center" width="60"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JS</a></td>
@@ -61,7 +61,7 @@
     <td align="center" width="60"><a href="https://falco.org/"><img src="https://raw.githubusercontent.com/0xZainRaza/0xZainRaza/refs/heads/main/logos/Screenshot%202025-07-01%20051858.png" width="40"/><br/>Falco</a></td>
     <td align="center" width="60"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>Git</a></td>
     <td align="center" width="60"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br/>Linux</a></td>
-    <td align="center" width="60"><a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/><br/>VSCode</a></td>
+    <td align="center" width="60"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>VSCode</a></td>
   </tr>
 </table>
 
